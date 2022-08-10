@@ -1,0 +1,6 @@
+module FYFNetwork {
+  umbrella header "FYFNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
